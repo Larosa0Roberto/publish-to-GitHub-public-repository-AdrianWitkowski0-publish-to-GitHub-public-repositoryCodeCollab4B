@@ -26,7 +26,7 @@ public class GestoreBiblio
         menu_p.addVoce("",9);
         menu_p.addVoce("",10);
         int scelta;
-        System.out.println("ciao mondo")
+        System.out.println("ciao mondo");
         do{
             scelta=menu_p.run();
             switch(scelta)
